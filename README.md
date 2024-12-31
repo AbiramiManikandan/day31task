@@ -9,8 +9,7 @@
         product_price: Price of the product
         product_material: Material of the product
         product_color: Color of the product
-#MongoDB Queries
-    For the following question write the corresponding MongoDB queries
+# For the following question write the corresponding MongoDB queries
 
           Find all the information about each products
           Find the product price which are between 400 to 800
